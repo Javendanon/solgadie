@@ -1,4 +1,13 @@
-# solgadie
+# Solgadie
+
+Proyecto web para solgadie aun en fase alpha en vuejs.
+
+## Instagram
+https://www.instagram.com/solgadie_de_papel/
+
+## Facebook
+https://www.facebook.com/CreacionesSolgadie/
+
 
 ## Project setup
 ```
